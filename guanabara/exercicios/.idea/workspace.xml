@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a0762d7-30fd-4972-b052-487348e9329f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rsantana-tech&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rsantana-tech/studies.git&quot;,
+    &quot;accountId&quot;: &quot;ef235eed-d298-496d-9116-06e3f3f82db1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34KdfvDCWYNlSjtXHVAQHVMEVyC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula09.executor": "Run",
+    "Python.aula10.executor": "Run",
+    "Python.challenge01.executor": "Run",
+    "Python.challenge02.executor": "Run",
+    "Python.challenge03.executor": "Run",
+    "Python.challenge04.executor": "Run",
+    "Python.challenge05.executor": "Run",
+    "Python.challenge06.executor": "Run",
+    "Python.challenge07.executor": "Run",
+    "Python.challenge09.executor": "Run",
+    "Python.challenge10.executor": "Run",
+    "Python.challenge11.executor": "Run",
+    "Python.challenge12.executor": "Run",
+    "Python.challenge13.executor": "Run",
+    "Python.challenge14.executor": "Run",
+    "Python.challenge16.executor": "Run",
+    "Python.challenge17.executor": "Run",
+    "Python.challenge18.executor": "Run",
+    "Python.challenge21.executor": "Run",
+    "Python.challenge22.executor": "Run",
+    "Python.challenge23.executor": "Run",
+    "Python.challenge24.executor": "Run",
+    "Python.challenge25.executor": "Run",
+    "Python.challenge26.executor": "Run",
+    "Python.challenge27.executor": "Run",
+    "Python.challenge28.executor": "Run",
+    "Python.challenge29.executor": "Run",
+    "Python.challenge30.executor": "Run",
+    "Python.challenge31.executor": "Run",
+    "Python.challenge32.executor": "Run",
+    "Python.challenge33.executor": "Run",
+    "Python.challenge34.executor": "Run",
+    "Python.challenge35.executor": "Run",
+    "Python.chellenge19.executor": "Run",
+    "Python.chgallenge15.executor": "Run",
+    "Python.class-11.executor": "Run",
+    "Python.exercise-class6.executor": "Run",
+    "Python.mudules-class08.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "first-steps-cypress-history",
+    "last_opened_file_path": "/home/penumbra/Área de trabalho/developer/studies/python/guanabara/exercicios",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/challengeIA" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/Downloads" />
+      <recent name="$PROJECT_DIR$/03-using-python-modules" />
+      <recent name="$PROJECT_DIR$/using-python-modules" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a0762d7-30fd-4972-b052-487348e9329f" name="Changes" comment="" />
+      <created>1760966305874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760966305874</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first steps with python">
+      <option name="closed" value="true" />
+      <created>1760970666831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760970666831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercises">
+      <option name="closed" value="true" />
+      <created>1760983891903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760983891903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exercise">
+      <option name="closed" value="true" />
+      <created>1760986456800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760986456800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore">
+      <option name="closed" value="true" />
+      <created>1760986568294</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760986568294</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add basic Python exercises (variables, math, strings)">
+      <option name="closed" value="true" />
+      <created>1761015639658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761015639659</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add car rental cost calculator">
+      <option name="closed" value="true" />
+      <created>1761017195918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761017195918</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add program to show integer part of a real number">
+      <option name="closed" value="true" />
+      <created>1761070757598</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761070757598</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add hypotenuse calculator using math.hypot">
+      <option name="closed" value="true" />
+      <created>1761072578900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761072578900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add trigonometric calculator for sine, cosine and tangent">
+      <option name="closed" value="true" />
+      <created>1761076835515</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761076835515</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add random student selector program">
+      <option name="closed" value="true" />
+      <created>1761096792850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761096792850</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add random presentation order generator">
+      <option name="closed" value="true" />
+      <created>1761096804752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761096804752</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refact">
+      <option name="closed" value="true" />
+      <created>1761098193655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761098193655</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refact">
+      <option name="closed" value="true" />
+      <created>1761098207889</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761098207889</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refact">
+      <option name="closed" value="true" />
+      <created>1761098235640</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761098235640</updated>
+    </task>
+    <task id="LOCAL-00015" summary="play mp3">
+      <option name="closed" value="true" />
+      <created>1761101738317</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761101738317</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exercise">
+      <option name="closed" value="true" />
+      <created>1761576120086</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761576120086</updated>
+    </task>
+    <task id="LOCAL-00017" summary="excercises">
+      <option name="closed" value="true" />
+      <created>1761577629728</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761577629728</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add exercise 24: check if city name starts with 'Santo'">
+      <option name="closed" value="true" />
+      <created>1761582464103</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761582464103</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add exercise 25: check if a name contains 'Silva'">
+      <option name="closed" value="true" />
+      <created>1761582859860</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1761582859861</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add exercise 25: check if a name contains 'Silva'">
+      <option name="closed" value="true" />
+      <created>1761583021236</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1761583021236</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add exercise 26: count and locate occurrences of letter 'A'">
+      <option name="closed" value="true" />
+      <created>1761584286413</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1761584286413</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add exercise 27: display first and last names separately">
+      <option name="closed" value="true" />
+      <created>1761592910973</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1761592910973</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add challenge 1: monthly salary calculator">
+      <option name="closed" value="true" />
+      <created>1761598865954</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1761598865954</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add exercise 28: number guessing game (0–5)">
+      <option name="closed" value="true" />
+      <created>1761606015142</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1761606015142</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add challenge 1: monthly salary calculator">
+      <option name="closed" value="true" />
+      <created>1761606063718</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1761606063718</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add exercise 29: calculate speeding fine">
+      <option name="closed" value="true" />
+      <created>1761606770690</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1761606770690</updated>
+    </task>
+    <task id="LOCAL-00027" summary="deleted">
+      <option name="closed" value="true" />
+      <created>1761606791563</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1761606791563</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add exercise 30: check if a number is even or odd">
+      <option name="closed" value="true" />
+      <created>1761607333108</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1761607333108</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add exercise 31: calculate travel ticket price by distance">
+      <option name="closed" value="true" />
+      <created>1761608200573</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1761608200573</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add exercise 32: check if a year is leap">
+      <option name="closed" value="true" />
+      <created>1761608713014</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1761608713014</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add exercise 33: find smallest and largest among three numbers">
+      <option name="closed" value="true" />
+      <created>1761618344209</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1761618344209</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add exercise 34: calculate salary raise based on income level">
+      <option name="closed" value="true" />
+      <created>1761619220151</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1761619220151</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add exercise 35: check if three segments can form a triangle">
+      <option name="closed" value="true" />
+      <created>1761620094331</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1761620094331</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add basic Python exercises (variables, math, strings)" />
+    <MESSAGE value="Add car rental cost calculator" />
+    <MESSAGE value="Add program to show integer part of a real number" />
+    <MESSAGE value="Add hypotenuse calculator using math.hypot" />
+    <MESSAGE value="Add trigonometric calculator for sine, cosine and tangent" />
+    <MESSAGE value="Add random student selector program" />
+    <MESSAGE value="Add random presentation order generator" />
+    <MESSAGE value="refact" />
+    <MESSAGE value="play mp3" />
+    <MESSAGE value="exercise" />
+    <MESSAGE value="excercises" />
+    <MESSAGE value="Add exercise 24: check if city name starts with 'Santo'" />
+    <MESSAGE value="Add exercise 25: check if a name contains 'Silva'" />
+    <MESSAGE value="Add exercise 26: count and locate occurrences of letter 'A'" />
+    <MESSAGE value="Add exercise 27: display first and last names separately" />
+    <MESSAGE value="Add exercise 28: number guessing game (0–5)" />
+    <MESSAGE value="Add challenge 1: monthly salary calculator" />
+    <MESSAGE value="Add exercise 29: calculate speeding fine" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="Add exercise 30: check if a number is even or odd" />
+    <MESSAGE value="Add exercise 31: calculate travel ticket price by distance" />
+    <MESSAGE value="Add exercise 32: check if a year is leap" />
+    <MESSAGE value="Add exercise 33: find smallest and largest among three numbers" />
+    <MESSAGE value="Add exercise 34: calculate salary raise based on income level" />
+    <MESSAGE value="Add exercise 35: check if three segments can form a triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add exercise 35: check if three segments can form a triangle" />
+  </component>
+</project>
